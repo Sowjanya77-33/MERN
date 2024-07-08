@@ -1,0 +1,5 @@
+# npm init ->node.js
+# npm express express-session mongoose mongodb
+# npm install -g nodemon 
+# npm install graphql graphql-tools
+#
