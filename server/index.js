@@ -66,5 +66,6 @@ async function StartServer() {
 function Testing(){
     return 1;
 }
-Testing()
+Testing();
+Test2();
 StartServer();
